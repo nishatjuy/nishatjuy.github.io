@@ -12,7 +12,7 @@ title                    : "Nishat Akter Juy"
 title_separator          : "-"
 name                     : &name "Nishat Akter Juy"
 description              : &description "Predoctoral Fellow at Columbia Business School"
-url                      : "https://nishatjuy.github.io"
+url                      : https://nishatjuy.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nishatjuy.github.io"
 
