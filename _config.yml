@@ -14,7 +14,7 @@ name                     : &name "Nishat Akter Juy"
 description              : &description "Predoctoral Fellow at Columbia Business School"
 url                      : "https://nishatjuy.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nishatjuy/nishatjuy.github.io"
+repository               : "nishatjuy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
