@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-*Columbia Business School, New York, USA
+* Columbia Business School, New York, USA
   *  Staff Associate I, Aug 2023 - Present
   *  Consultant, Mar 2023 - Jul 2023
 
