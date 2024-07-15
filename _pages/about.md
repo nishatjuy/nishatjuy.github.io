@@ -9,6 +9,4 @@ redirect_from:
 
 Hi! I'm Nishat, a Research Associate at [Columbia Business School](https://business.columbia.edu/)
 
-A personal website
-======
-Under Construction
+
