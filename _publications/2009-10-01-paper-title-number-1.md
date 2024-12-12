@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Assessment of Excess Mortality and Household Income in Rural Bangladesh During the COVID-19 Pandemic in 2020"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/assessment-of-excess-mortality-and-household-income-in-rural-bangladesh-during-the-covid-19-pandemic-in-2020
+excerpt: 'In this study of households in rural Bangladesh, all-cause mortality was lower in 2020 compared with 2019. Restrictions imposed by the government may have limited the scale of the COVID-19 pandemic in rural areas, although economic data suggest that these restrictions need to be accompanied by expanded welfare programs.'
+date: 2021
+venue: 'JAMA Network Open, v.4'
+paperurl: 'https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2786138'
+citation: 'Barnwal, Prabhat and Yao, Yuling and Wang, Yiqian and Juy, Nishat Akter and Raihan, Shabib and Haque, Mohammad Ashraful and van Geen, Alexander &quot; Assessment of Excess Mortality and Household Income in Rural Bangladesh During the COVID-19 Pandemic in 2020 &quot; <i>JAMA Network Open, v.4, 2021</i>'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
