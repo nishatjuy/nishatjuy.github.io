@@ -4,6 +4,8 @@ title: "Research Experience"
 permalink: /research-experience/
 author_profile: true
 ---
+I've extensive experience in managing and analyzing large datasets, designing research interventions, and coordinating field operations across diverse projects in Bangladesh, China, and Myanmar. Skilled in R, Stata, and GIS, with a strong focus on empirical analysis and policy impact studies in labor markets, public health, and social norms.
+
 
 Senior Research Assistant for [Prof. Laura Boudreau](https://laura-boudreau.com/) (Columbia Business School), [Prof. Sylvain Chassang](https://www.sylvainchassang.org/) (Princeton University), [Prof Ada González-Torres](https://adagonzaleztorres.weebly.com/) (Visiting Faculty at Harvard University)
 ------
