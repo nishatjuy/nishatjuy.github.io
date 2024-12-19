@@ -14,4 +14,4 @@ Research Interest
 ------
 I aspire to pursue a PhD program to advance my research in Economics and Public Policy. My objective is to develop evidence-based solutions to address critical global challenges, with a focus on economic development, governance, and poverty alleviation.
 
-[[CV Link]](https://drive.google.com/file/d/1lVTsSYjjoIWkbQRWHs464G3oR9qTVac4/view?usp=sharing)
+[[Vita]](https://drive.google.com/file/d/1lVTsSYjjoIWkbQRWHs464G3oR9qTVac4/view?usp=sharing)
