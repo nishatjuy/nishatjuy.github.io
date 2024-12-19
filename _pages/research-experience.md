@@ -11,7 +11,7 @@ Workstation: Columbia Business School – Economics Division. Mar 2023 – Prese
   1. Contributed managerial, and analytical skills in ”Escrow Mechanisms for Group-based Reporting: Evidence from Bangladesh’s Garments Sector”. The nature of           work is largely independent.
   2. Worked with helpline call data, administrative data, and baseline and end-line survey data. Developed R and Stata scripts to monitor the uptake of the new          reporting escrow system. Supported local NGOs in completing interventions and conducting assessments in garment factories. Prepared report on empirical analysis after each round of data collection, following the pre-analysis plan (PAP).   
     
-Senior Research Assistant for Prof. Laura Boudreau (Columbia Business School), [Prof. Rachel Heath](https://faculty.washington.edu/rmheath/) (University of Washington)
+Senior Research Assistant for [Prof. Laura Boudreau](https://laura-boudreau.com/) (Columbia Business School), [Prof. Rachel Heath](https://faculty.washington.edu/rmheath/) (University of Washington)
 ------
 Workstation: Columbia Business School – Economics Division. Mar 2023 – Present
   1. Assisted in designing interventions for the working paper “The Roles of Information and Search Frictions in Determining Working Conditions in Bangladesh’s          Apparel Sector.”
@@ -19,13 +19,13 @@ Workstation: Columbia Business School – Economics Division. Mar 2023 – Prese
   3. Developed a dashboard to disseminate information on job attributes and working conditions via the hotline.
 
 
-Senior Research Assistant for Prof. Laura Boudreau (Columbia Business School), [Oren Reshef](https://www.orenreshef.com/) (Washington University in St. Louis)
+Senior Research Assistant for [Prof. Laura Boudreau](https://laura-boudreau.com/) (Columbia Business School), [Oren Reshef](https://www.orenreshef.com/) (Washington University in St. Louis)
 ------
 Workstation: Columbia Business School – Economics Division. Mar 2023 – Present
   1. Cleaned large datasets on the specific type of garment wear production by international buyers for the following paper ”Social Norms and Firm Productivity:             Evidence from Bangladeshi Knitwear Factories”
 
 
-Senior Research Assistant for Prof. Laura Boudreau (Columbia Business School)
+Senior Research Assistant for [Prof. Laura Boudreau](https://laura-boudreau.com/) (Columbia Business School)
 ------
 Workstation: Columbia Business School – Economics Division. Mar 2023 – Present
   1. Assisted in cleaning datasets of the following paper ”Multinational enforcement of labor law: Experimental evidence on strengthening occupational safety and        health (OSH) committees”
