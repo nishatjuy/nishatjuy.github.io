@@ -14,63 +14,45 @@ Workstation: Columbia Business School – Economics Division. Mar 2023 – Prese
 Senior Research Assistant for Prof. Laura Boudreau (Columbia Business School), Prof. Rachel Heath (University of Washington)
 ------
 Workstation: Columbia Business School – Economics Division. Mar 2023 – Present
-• Assisted in designing interventions for the working paper “The Roles of Information and Search Frictions in
-Determining Working Conditions in Bangladesh’s Apparel Sector.”
-• Contributed to setting up a hotline to address information frictions among workers in the garment sector.
-• Developed a dashboard to disseminate information on job attributes and working conditions via the hotline.
+  1. Assisted in designing interventions for the working paper “The Roles of Information and Search Frictions in Determining Working Conditions in Bangladesh’s          Apparel Sector.”
+  2. Contributed to setting up a hotline to address information frictions among workers in the garment sector.
+  3. Developed a dashboard to disseminate information on job attributes and working conditions via the hotline.
 
 
-Senior Research Assistant for Prof. Laura Boudreau (Columbia Business School), Oren Reshef (Washington university in St. Louis)
+Senior Research Assistant for Prof. Laura Boudreau (Columbia Business School), Oren Reshef (Washington University in St. Louis)
 ------
 Workstation: Columbia Business School – Economics Division. Mar 2023 – Present
-• Cleaned large datasets on specific type of garment wear production by international buyers for the following paper ”Social Norms and Firm Productivity: Evidence from Bangladeshi Knitwear Factories”
+  1. Cleaned large datasets on the specific type of garment wear production by international buyers for the following paper ”Social Norms and Firm Productivity:             Evidence from Bangladeshi Knitwear Factories”
 
 
 Senior Research Assistant for Prof. Laura Boudreau (Columbia Business School)
 ------
 Workstation: Columbia Business School – Economics Division. Mar 2023 – Present
-• Assisted in cleaning datasets of the following paper ”Multinational enforcement of labor law: Experimental
-evidence on strengthening occupational safety and health (OSH) committees”
-• Prepared panel data on building safety reports of over 2000 factories that were generated from PDF reports. The
-cleaning phase required an extensive review of the reports and minute attention to detail.
-• Prepared IRB applications. Maintained documentation. Coordinated project timeline with partner organizations in
-Bangladesh. Translated factory list and survey materials. Provided feedback on the pilot survey. Suggested native
-language-specific questions to capture authoritative behavior in a workplace, which are currently in a survey
-questionnaire.
+  1. Assisted in cleaning datasets of the following paper ”Multinational enforcement of labor law: Experimental evidence on strengthening occupational safety and        health (OSH) committees”
+  2. Prepared panel data on building safety reports of over 2000 factories that were generated from PDF reports. The cleaning phase required an extensive review of      the reports and minute attention to detail.
+  3. Prepared IRB applications. Maintained documentation. Coordinated project timeline with partner organizations in Bangladesh. Translated factory list and survey      materials. Provided feedback on the pilot survey. Suggested native language-specific questions to capture authoritative behavior in a workplace, which are          currently in a survey questionnaire.
 
 
 Research Assistant for Prof. Prabhat Branwal ( Michigan State University), and Prof. Alexander Van Geen (Lamont Doherty Earth Observatory of Columbia University)
 ------
 Workstation: Innovations for Poverty Action (Aug 2019 – Jul 2022). NGO Forum for Public Health (Aug 2022 – Mar 2023)
-  • Project and Field Management: Programmed survey instruments. Led five rounds of physical survey, two rounds of phone survey, and one round of qualitative           survey. Independently Programmed and executed tools for social network data collection over the phone during lock-down. Trained and supervised field teams.         Applied for AEA RCT Registry and IRB approval.
-  • Data Analysis: Assisted in evaluating programs to mitigate social enviromental risks. Investigated mortality rate during covid-19 in rural Bangladesh. Wrote         algorithm to analyze data at the household, individual level and water point level. Worked on geo-spatial and social network analysis on GIS and Stata. Worked      on pre-analysis plan. Analyzed arsenic exposure by village; Administered Social Campaign.
+  1. Project and Field Management: Programmed survey instruments. Led five rounds of the physical survey, two rounds of the phone survey, and one round of the           qualitative survey. Independently Programmed and executed tools for social network data collection over the phone during lockdown. Trained and supervised           field teams. Applied for AEA RCT Registry and IRB approval.
+  2. Data Analysis: Assisted in evaluating programs to mitigate social and environmental risks. Investigated mortality rate during COVID-19 in rural Bangladesh.         Wrote algorithm to analyze data at the household, individual level and water point level. Worked on geospatial and social network analysis on GIS and Stata.        Worked on the pre-analysis plan. Analyzed arsenic exposure by village; Administered Social Campaign.
 
 Research Assistant for Prof. Natha Fiala, University of Connecticut
 ------
 Workstation: Innovations for Poverty Action, Bangladesh. Jan 2021- Jul 2022
-• Project and Field Management: Led Baseline and Midline filed activities. Applied for IRB approval. Prepared
-budget. Prepared SoW for the subcontracted firm. Maintained collaboration with partner, subcontracted firms,
-and donors.
-• Data Analysis: Helped in measuring impact of a Save the Children’s initiative to facilitate disadvantage youth
-population. Cleaned, merge and analyze panel data in Stata. Designed and executed sample tracking protocol to
-minimize attrition. Summarized preliminary findings include average treatment effects. Transcribed, Coded, and
-Analyzed qualitative data.
+  1. Project and Field Management: Led Baseline and Midline field activities. Applied for IRB approval. Prepared budget. Prepared SoW for the subcontracted firm.        Maintained collaboration with partners, subcontracted firms, and donors.
+  2. Data Analysis: Helped in measuring the impact of a Save the Children’s initiative to facilitate disadvantaged youth population. Cleaned, merged, and analyzed       panel data in Stata. Designed and executed sample tracking protocol to minimize attrition. Summarized preliminary findings include average treatment effects.       Transcribed, Coded, and Analyzed qualitative data.
 
 Research Assistant for Gudrun Østby, Research Director, Peace Research Institute Oslo
 ------
 Workstation: Innovations for Poverty Action, Bangladesh Dec 2021-Jul 2022
-• Project and Field Management: Oversaw Midline and Endline data collection. Maintained liaisons with
-subcontracted firm and trained them about the survey tools, Prepared budget and field protocols. Applied for
-RRRC approval for refugee camp. Participated in Policy talks
-• Data Analysis: Investigated the impact of Covid-19 on Education in host and refugee communities. Programmed
-for data quality checks. Cleaned datasets. Wrote Stata algorithm to merge and analyze panel data. Prepared and
-executed sample replacement protocol. Summarized preliminary findings.
+  1. Project and Field Management: Oversaw Midline and Endline data collection. Maintained liaisons with subcontracted firms and trained them about the survey           tools, Prepared budget, and field protocols. Applied for RRRC approval for the refugee camp. Participated in Policy talks
+  2. Data Analysis: Investigated the impact of COVID-19 on Education in host and refugee communities. Programmed for data quality checks. Cleaned datasets. Wrote        Stata algorithm to merge and analyze panel data. Prepared and executed sample replacement protocol. Summarized preliminary findings.
 
 Research Assistant for Prof Sarah Baird, George Washington University Milken Institute School of Public Heath
 ------
 Workstation: Innovations for Poverty Action, Bangladesh Jan 2021-Feb 2022
-• Project and Field Management: Prepared budgets, programmed partners’ organization database to feed
-directly in to data collection tool. Oversaw field activities from Baseline through Endline.
-• Data Analysis: Assisted in measuring program impacts and identifying improvement scope for delivering
-healthcare facility for first time mothers; Cleaned and matched disparate data. Designed a real-time automated
-dashboard that included summary of all the variables for daily checks.
+  1. Project and Field Management: Prepared budgets, and program partners’ organization database to feed directly into the data collection tool. Oversaw field               activities from Baseline through Endline.
+  2. Data Analysis: Assisted in measuring program impacts and identifying improvement scope for delivering healthcare facility for first-time mothers; Cleaned and       matched disparate data. Designed a real-time automated dashboard that included a summary of all the variables for daily checks.
