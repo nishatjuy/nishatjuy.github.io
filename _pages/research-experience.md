@@ -11,7 +11,8 @@ I've extensive experience in managing and analyzing large datasets, designing re
 
 Workstation: Columbia Business School – Economics Division. Mar 2023 – Present
   1. Contributed managerial, and analytical skills in ”Escrow Mechanisms for Group-based Reporting: Evidence from Bangladesh’s Garments Sector”. The nature of           work is largely independent.
-  2. Worked with helpline call data, administrative data, and baseline and end-line survey data. Developed R and Stata scripts to monitor the uptake of the new          reporting escrow system. Supported local NGOs in completing interventions and conducting assessments in garment factories. Prepared report on empirical analysis after each round of data collection, following the pre-analysis plan (PAP).   
+  2. Worked with helpline call data, administrative data, and baseline and end-line survey data. Developed R and Stata scripts to monitor the uptake of the new          reporting escrow system. Supported local NGOs in completing interventions and conducting assessments in garment factories. Prepared report on empirical             analysis after each round of data collection, following the pre-analysis plan (PAP).   
+
 ---
 **Senior Research Assistant for [Prof. Laura Boudreau](https://laura-boudreau.com/) (Columbia Business School), [Prof. Rachel Heath](https://faculty.washington.edu/rmheath/) (University of Washington)**
 
@@ -19,8 +20,8 @@ Workstation: Columbia Business School – Economics Division. Mar 2023 – Prese
   1. Assisted in designing interventions for the working paper “The Roles of Information and Search Frictions in Determining Working Conditions in Bangladesh’s          Apparel Sector.”
   2. Contributed to setting up a hotline to address information frictions among workers in the garment sector.
   3. Developed a dashboard to disseminate information on job attributes and working conditions via the hotline.
----
 
+---
 **Senior Research Assistant for [Prof. Laura Boudreau](https://laura-boudreau.com/) (Columbia Business School), [Oren Reshef](https://www.orenreshef.com/) (Washington University in St. Louis)**
 
 Workstation: Columbia Business School – Economics Division. Mar 2023 – Present
@@ -39,19 +40,22 @@ Workstation: Columbia Business School – Economics Division. Mar 2023 – Prese
 
 Workstation: Innovations for Poverty Action (Aug 2019 – Jul 2022). NGO Forum for Public Health (Aug 2022 – Mar 2023)
   1. Project and Field Management: Programmed survey instruments. Led five rounds of the physical survey, two rounds of the phone survey, and one round of the           qualitative survey. Independently Programmed and executed tools for social network data collection over the phone during lockdown. Trained and supervised           field teams. Applied for AEA RCT Registry and IRB approval.
-  2. Data Analysis: Assisted in evaluating programs to mitigate social and environmental risks. Investigated mortality rate during COVID-19 in rural Bangladesh.         Wrote algorithm to analyze data at the household, individual level, and water point level. Worked on geospatial and social network analysis on GIS and Stata.        Worked on the pre-analysis plan. Analyzed arsenic exposure by village; Administered Social Campaign.
+  2. Data Analysis: Assisted in evaluating programs to mitigate social and environmental risks. Investigated mortality rate during COVID-19 in rural Bangladesh.         Wrote algorithm to analyze data at the household, individual level, and water point level. Worked on geospatial and social network analysis on GIS and Stata.       Worked on the pre-analysis plan. Analyzed arsenic exposure by village; Administered Social Campaign.
+
 ---
 **Research Assistant for [Prof. Natha Fiala](http://nathanfiala.com/), University of Connecticut**
 
 Workstation: Innovations for Poverty Action, Bangladesh. Jan 2021- Jul 2022
   1. Project and Field Management: Led Baseline and Midline field activities. Applied for IRB approval. Prepared budget. Prepared SoW for the subcontracted firm.        Maintained collaboration with partners, subcontracted firms, and donors.
   2. Data Analysis: Helped in measuring the impact of a Save the Children’s initiative to facilitate disadvantaged youth population. Cleaned, merged, and analyzed       panel data in Stata. Designed and executed sample tracking protocol to minimize attrition. Summarized preliminary findings include average treatment effects.       Transcribed, Coded, and Analyzed qualitative data.
+
 ---
 **Research Assistant for [Gudrun Østby](https://www.prio.org/people/3501), Research Director, Peace Research Institute Oslo**
 
 Workstation: Innovations for Poverty Action, Bangladesh Dec 2021-Jul 2022
   1. Project and Field Management: Oversaw Midline and Endline data collection. Maintained liaisons with subcontracted firms and trained them about the survey           tools, Prepared budget, and field protocols. Applied for RRRC approval for the refugee camp. Participated in Policy talks
   2. Data Analysis: Investigated the impact of COVID-19 on Education in host and refugee communities. Programmed for data quality checks. Cleaned datasets. Wrote        Stata algorithm to merge and analyze panel data. Prepared and executed sample replacement protocol. Summarized preliminary findings.
+
 ---
 **Research Assistant for [Prof Sarah Baird](https://publichealth.gwu.edu/departments/global-health/sarah-baird), George Washington University Milken Institute School of Public Heath**
 
