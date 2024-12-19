@@ -5,7 +5,7 @@ permalink: /research-experience/
 author_profile: true
 ---
 
-Senior Research Assistant for Prof. Laura Boudreau (Columbia Business School), Prof. Sylvain Chassang (Princeton University), Prof Ada González-Torres (Visiting Faculty at Harvard University)
+Senior Research Assistant for [Prof. Laura Boudreau](https://laura-boudreau.com/) (Columbia Business School), Prof. Sylvain Chassang (Princeton University), Prof Ada González-Torres (Visiting Faculty at Harvard University)
 ------
 Workstation: Columbia Business School – Economics Division. Mar 2023 – Present
   1. Contributed managerial, and analytical skills in ”Escrow Mechanisms for Group-based Reporting: Evidence from Bangladesh’s Garments Sector”. The nature of           work is largely independent.
